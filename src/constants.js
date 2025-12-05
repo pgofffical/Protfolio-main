@@ -110,7 +110,7 @@ export const SkillsInfo = [
       school: "Bhairavnath vidyalaya and Jr. College, Ankoli",
       date: "2021",
       grade: "66.17%",
-      desc: "I completed my Class 12 education from Bhairavnath vidyalaya and Jr. College, Ankoli, under the Maharashtra State Board, where I studied Physics, Chemistry, and Mathematics (PCM) along with Electronics.",
+      desc: "I completed my Class 12 education from Bhairavnath vidyalaya and Jr. College, Ankoli, under the Maharashtra State Board, where I studied Physics, Chemistry, Mathematics and Biology (PCMB) along with Electronics.",
       degree: "Maharashtra State Board (XII) – PCM with Electronics",
     },
     {
@@ -119,7 +119,7 @@ export const SkillsInfo = [
       school: "Bhairavnath vidyalaya and Jr. College, Ankoli",
       date: "2019",
       grade: "76.40%",
-      desc: "I completed my Class 10 education from Bhairavnath vidyalaya and Jr. College, Ankoli, under the Maharashtra State Board, where I studied subjects including Marathi, Multi Skill Foundation, English, Mathematics, Science & Technology, and Social Science.",
+      desc: "I completed my Class 10 education from Bhairavnath vidyalaya and Jr. College, Ankoli, under the Maharashtra State Board, where I studied subjects including Marathi, Hindi, English, Mathematics, Science & Technology, and Social Science.",
       degree: "Maharashtra State Board (X)",
 
     },
