@@ -110,8 +110,8 @@ export const SkillsInfo = [
       school: "Bhairavnath vidyalaya and Jr. College, Ankoli",
       date: "2021",
       grade: "66.17%",
-      desc: "I completed my Class 12 education from Bhairavnath vidyalaya and Jr. College, Ankoli, under the Maharashtra State Board, where I studied Physics, Chemistry, Mathematics and Biology (PCMB) along with Electronics.",
-      degree: "Maharashtra State Board (XII) – PCM with Electronics",
+      desc: "I completed my Class 12 education from Bhairavnath vidyalaya and Jr. College, Ankoli, under the Maharashtra State Board, where I studied Physics, Chemistry, Mathematics and Biology (PCMB).",
+      degree: "Maharashtra State Board (XII) – PCMB",
     },
     {
       id: 2,
