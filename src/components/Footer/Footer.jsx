@@ -40,7 +40,7 @@ const Footer = () => {
           {[
             // { icon: <FaFacebook />, link: "https://www.facebook.com/share/19PzUhG3yJ/" },
             { icon: <FaTwitter />, link: "https://x.com/PranavGawali18" },
-            { icon: <FaLinkedin />, link: "www.linkedin.com/in/pranav-gavali-802718258" },
+            { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/pranav-gavali-802718258/" },
             { icon: <FaInstagram />, link: "https://www.instagram.com/mr_pranav_gavali/" },
             
           ].map((item, index) => (
